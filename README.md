@@ -22,7 +22,7 @@ This is a starter template using the following stack:
 - Analytics - [Vercel Analytics](https://vercel.com/analytics)
 - Formatting - [Prettier](https://prettier.io)
 
-This template uses the new Next.js App Router. This includes support for enhanced layouts, colocation of components, tests, and styles, component-level data fetching, and more.
+This template uses the new Next.js App Router. This includes support for enhanced layouts, colocation of components, tests, and styles, component-level data fetching, and more. Update
 
 ## Getting Started
 
